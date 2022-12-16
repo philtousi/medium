@@ -1,0 +1,9 @@
+[submodule "diebold_mariano_test"]
+	path = diebold_mariano_test
+	url = https://github.com/philtousi/diebold_mariano_test.git
+[submodule "forecasting_windows"]
+	path = forecasting_windows
+	url = https://github.com/philtousi/forecasting_windows.git
+[submodule "dynamic_factor_models"]
+	path = dynamic_factor_models
+	url = https://github.com/philtousi/dynamic_factor_models.git
