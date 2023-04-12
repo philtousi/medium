@@ -7,3 +7,6 @@
 [submodule "dynamic_factor_models"]
 	path = dynamic_factor_models
 	url = https://github.com/philtousi/dynamic_factor_models.git
+[submodule "kernel-trick"]
+	path = kernel-trick
+	url = https://github.com/philtousi/kernel-trick.git
